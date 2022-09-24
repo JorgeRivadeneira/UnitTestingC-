@@ -17,7 +17,8 @@ namespace TestNinja1st.UnitTests
             var result = reservation.CanBeCancelledBy(new User { IsAdmin = true });
             
             //Assert
-            Assert.IsTrue(result);
+            //Assert.IsTrue(result);
+            Assert.That(result, Is.True);
         }
 
         [Test]
@@ -31,7 +32,8 @@ namespace TestNinja1st.UnitTests
             var result = reservation.CanBeCancelledBy(user);
 
             //Assert
-            Assert.IsTrue(result);
+            //Assert.IsTrue(result);
+            Assert.That(result, Is.True);
         }
 
         [Test]
@@ -44,7 +46,8 @@ namespace TestNinja1st.UnitTests
             var result = reservation.CanBeCancelledBy(new User());
 
             //Assert
-            Assert.IsFalse(result);
+            //Assert.IsFalse(result);
+            Assert.That(result, Is.False);
         }
     }
 }

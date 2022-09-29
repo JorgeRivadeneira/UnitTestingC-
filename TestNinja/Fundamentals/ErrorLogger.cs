@@ -14,12 +14,17 @@ namespace TestNinja.Fundamentals
             if (String.IsNullOrWhiteSpace(error))
                 throw new ArgumentNullException();
                 
-            LastError = error; 
-            
+            LastError = error;
+
             // Write the log to a storage
             // ...
+            OnErrorLogged(Guid.NewGuid());
+            
+        }
 
-            ErrorLogged?.Invoke(this, Guid.NewGuid());
+        public virtual void OnErrorLogged(Guid errorId)
+        {
+            ErrorLogged?.Invoke(this, errorId);
         }
     }
 }

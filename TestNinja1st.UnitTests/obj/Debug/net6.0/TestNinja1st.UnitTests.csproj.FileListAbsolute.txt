@@ -1,6 +1,12 @@
 C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja1st.UnitTests\bin\Debug\net6.0\testhost.dll
 C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja1st.UnitTests\bin\Debug\net6.0\testhost.exe
 C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja1st.UnitTests\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja1st.UnitTests\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja1st.UnitTests\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja1st.UnitTests\bin\Debug\net6.0\nunit.engine.dll
+C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja1st.UnitTests\bin\Debug\net6.0\nunit.engine.api.dll
+C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja1st.UnitTests\bin\Debug\net6.0\nunit.engine.core.dll
+C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja1st.UnitTests\bin\Debug\net6.0\testcentric.engine.metadata.dll
 C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja1st.UnitTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja1st.UnitTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja1st.UnitTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
@@ -21,6 +27,7 @@ C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-cod
 C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja1st.UnitTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
 C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja1st.UnitTests\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja1st.UnitTests\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja1st.UnitTests\bin\Debug\net6.0\nunit.framework.dll
 C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja1st.UnitTests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
 C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja1st.UnitTests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
 C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja1st.UnitTests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
@@ -101,10 +108,3 @@ C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-cod
 C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja1st.UnitTests\obj\Debug\net6.0\ref\TestNinja1st.UnitTests.dll
 C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja1st.UnitTests\obj\Debug\net6.0\TestNinja1st.UnitTests.pdb
 C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja1st.UnitTests\obj\Debug\net6.0\TestNinja1st.UnitTests.genruntimeconfig.cache
-C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja1st.UnitTests\bin\Debug\net6.0\NUnit3.TestAdapter.dll
-C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja1st.UnitTests\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
-C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja1st.UnitTests\bin\Debug\net6.0\nunit.engine.dll
-C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja1st.UnitTests\bin\Debug\net6.0\nunit.engine.api.dll
-C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja1st.UnitTests\bin\Debug\net6.0\nunit.engine.core.dll
-C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja1st.UnitTests\bin\Debug\net6.0\testcentric.engine.metadata.dll
-C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja1st.UnitTests\bin\Debug\net6.0\nunit.framework.dll

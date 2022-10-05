@@ -20,7 +20,6 @@ C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-cod
 C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja\bin\Debug\EntityFramework.xml
 C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.xml
-C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.AssemblyReference.cache
 C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CoreCompileInputs.cache
 C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CopyComplete
 C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.dll

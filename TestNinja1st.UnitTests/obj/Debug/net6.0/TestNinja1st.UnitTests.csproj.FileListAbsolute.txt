@@ -108,3 +108,8 @@ C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-cod
 C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja1st.UnitTests\obj\Debug\net6.0\ref\TestNinja1st.UnitTests.dll
 C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja1st.UnitTests\obj\Debug\net6.0\TestNinja1st.UnitTests.pdb
 C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja1st.UnitTests\obj\Debug\net6.0\TestNinja1st.UnitTests.genruntimeconfig.cache
+C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja1st.UnitTests\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja1st.UnitTests\bin\Debug\net6.0\Moq.dll
+C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja1st.UnitTests\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja1st.UnitTests\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\jorge\Documents\Learning\dotnet\UnitTest\source-code-starter\source-code-starter\TestNinja\TestNinja1st.UnitTests\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll

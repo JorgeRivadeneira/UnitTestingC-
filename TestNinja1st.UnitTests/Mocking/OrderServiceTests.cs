@@ -20,7 +20,7 @@ namespace TestNinja1st.UnitTests.Mocking
 
             var order = new Order();
             service.PlaceOrder(order);
-
+            
             storage.Verify(s => s.Store(order));
         }
     }

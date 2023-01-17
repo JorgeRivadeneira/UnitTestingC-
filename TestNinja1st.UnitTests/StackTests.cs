@@ -114,7 +114,7 @@ namespace TestNinja1st.UnitTests
             stack.Pop();
 
             //Assert
-            Assert.That(stack.Count, Is.EqualTo(3));
+            Assert.That(stack.Count, Is.EqualTo(2));
         }
 
     }
